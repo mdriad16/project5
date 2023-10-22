@@ -1,0 +1,560 @@
+
+input{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media  (min-width:992px){
+
+    .row5 {
+   
+        position: absolute;
+        left: 250px;
+        
+     
+      
+     
+     
+      
+       
+       
+        
+     }
+     
+
+
+
+}
+
+
+
+@media  (max-width:767px){
+
+  
+ 
+ 
+ 
+ 
+  
+
+.row6{
+    margin-top: 100px;
+}
+
+.row6 .img7{
+   margin-bottom: 5px;
+}
+
+
+
+
+
+}
+
+ 
+ 
+ 
+@media(max-width:992px){
+#section6 .img9{
+    position: relative;
+    top: 100px;
+
+}
+    #section9{
+        height: 90vh;
+        margin-top: 90px;
+      }
+      
+#section5{
+    height: 60vh;
+
+}
+
+    #section5 #bn2{
+        position: relative;
+        top: -150px;
+
+
+
+
+    }
+
+
+    #section8{
+        position: relative;
+        top: 100px;
+      
+     }
+
+
+     #section7{
+        height: 80vh;
+        position: relative;
+        top: 100px;
+
+     
+     
+     }
+
+
+#section5 p{
+    width: 100px;
+}
+#row5{
+    
+   
+    margin: auto;
+    width: 50%;
+  
+      
+       
+        
+     
+      
+     
+     
+      
+       
+       
+        
+   
+
+
+
+}
+  
+  
+  
+  
+  
+#section5{
+   height: 120vh;
+}
+  
+  
+  #section5 p{
+
+width: 120%;
+
+
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+   
+
+   
+
+
+   
+ 
+}
+ 
+ 
+
+
+
+
+
+
+
+@media(max-width:992px){
+
+
+
+
+
+
+
+#section7{
+    height: 110vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#section3 #nm{
+   
+    position: relativ;
+    left: 10px;
+    margin: auto;
+    display: inline-block;
+    width: 100%;
+}
+
+#section3 .input{
+  
+  
+
+ }
+ 
+
+#section3{
+    margin: auto;
+}
+
+#section3 .bm{
+position: relative;
+right: 5px;
+}
+
+#section3{
+height: auto;
+}
+#section3 #col{
+
+transform: translate(0px,-120px);
+
+}
+
+
+
+
+
+
+
+}
+
+
+#section3 .inp{
+    width: 80%;
+}
+
+
+input{
+    border: none;
+    border-bottom: 2px solid rgb(0,0,0,0.3);
+}
+
+
+
+
+
+
+body{
+   
+}
+
+ul li{
+    margin: 0px 5px;
+}
+
+
+.nav-link{
+ color: white;
+ font-weight: black;
+}
+
+
+.section2{
+    height: 80vh;
+    max-height: 950px;
+    background-image: url("assecst/img/Taxi-Cab-Service-Company-Website-Template-PSD.pn1g.png");
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+
+}
+
+.sec1 h4{
+color: #ffc61a;
+font-weight: bold;
+}
+.sec1 h1{
+    color: white;
+    font-weight: bold;
+
+    font-size: 57px;
+    
+    }
+    
+    .sec1 h5{
+        color: white;
+        letter-spacing: 12px;
+       
+       
+       
+        }
+        
+
+.img{
+   width: 502px;
+   position: relative;
+   height: 300px;
+   z-index: 2;
+}
+
+.section3{
+    height: 610px;
+    background-color: #ffc61a;
+    position: relative;
+    top: -30px;
+   
+
+}
+
+.row1 h2{
+
+font-weight:bolder ;
+
+
+}
+
+
+.row1 h1{
+
+    font-weight:700
+    
+    
+    }
+
+
+
+    .row1 {
+
+        font-weight:500;
+        font-size: 15px;
+        
+        
+        
+        }
+          
+    .bn1{
+        border: none;
+        outline: none;
+        background-color: black;
+        color: white;
+        border-radius: 3px;
+        font-weight: 700;
+    }
+
+    .bn1:hover{
+        color: white;
+    }
+.row1 div{
+ margin: auto;
+
+}
+
+
+
+
+
+
+    .row2 div{
+      margin: 10px 0px;
+
+
+
+    }
+
+    .row2 .col-lg-6 input{
+        width: 80%;
+    }
+    .bn2{
+        background-color: black;
+        color: white;
+    }
+
+    .btn:hover{
+        color: white;
+    }
+select{
+  
+position: relative;
+left: 6px;
+-webkit-appearance: none;
+ 
+
+
+}
+    .input{
+        width: 95%;
+        border: none;
+        border-bottom: 2px solid rgb(0,0,0,0.3);
+        display: block;
+        margin: 0;
+        
+
+
+
+ 
+ 
+    
+    
+     
+    }
+.bn3{
+    background-color: black;
+    color: white;
+   width: 80%;
+   
+    text-align: center;
+}
+
+
+.section4 .img4{
+width: 200px;
+height: 100px;
+position: relative;
+top: 50px;
+
+
+}
+.section4 h3{
+    font-weight: bolder;
+}
+
+.section4 p{
+    font-weight: 400;
+}
+
+.section5{
+height: 70vh;
+max-height: 950px;
+ background-image: url("assecst/img/pnf5.png");
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+
+}
+
+.section5 h2{
+    color: #ffc61a;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.section5 h1{
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.section5 .img6{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+
+}
+
+.section5 h3{
+    font-weight: 700;
+    color: #ffc61a;
+    text-transform: uppercase;
+}
+
+.section5 p{
+    font-weight: 400;
+    color:white;
+    font-size: 12px;
+    width: 47%;
+   
+}
+
+
+
+.section6{
+
+}
+
+
+
+
+
+
+#row{
+
+
+
+
+   
+ }
+
+
+.section7{
+
+
+height: 70vh;
+max-height: 950px;
+ background-image: url("assecst/img/11.png");
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  
+}
+.section9{
+  
+ 
+    height: 65vh;
+    max-height: 950px;
+     background-image: url("assecst/img/png14.png");
+      background-size: cover;
+      background-position: center center;
+      position: relative;
+    
+
+ 
+ 
+ 
+ 
+  
+
+}
+.section7 p{
+    color: white;
+    font-size: 20px;
+    position: relative;z-index: 3;
+
+   
+   
+   
+}
+
+.section8{
+background-color: #ffc61a;
+
+
+}
+
+.section9 h3{
+font-weight: 700;
+color: whit;
+border-bottom: 8px solid #ffc61a;
+height: 30%;
+
+}
+
+.section9 p{
+    font-weight: 400;
+}
+
+.section9 i{
+    margin: 0px 5px;
+    color: #ffc61a;
+}
